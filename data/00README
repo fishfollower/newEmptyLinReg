@@ -1,0 +1,15 @@
+To use this please add a file called "linreg.dat" with two columns named "x" and "y", which can be read by the R-function "read.table". 
+
+E.g. a file like
+
+#---------lingeg.dat----------
+
+x y
+1 1 
+2 3 
+3 2 
+4 5 
+5 6
+
+#-----------------------------
+
